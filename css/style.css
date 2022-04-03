@@ -171,14 +171,12 @@ p:not(:last-child) {
   margin-bottom: 15px;
 }
 .number-four__title h3 {
-
   position: relative;
 }
 .number-four__title h3::before {
   background: url("../img/rinnegan.gif") center no-repeat;
   width: 150px;
   height: 100px;
-  
 }
 
 .number-four__text {
@@ -190,7 +188,6 @@ p:not(:last-child) {
   top: 0px;
   left: 170px;
 }
-
 
 h3::before {
   content: "";
